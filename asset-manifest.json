@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/journey-teacher/static/css/main.d1b05096.chunk.css",
-    "main.js": "/journey-teacher/static/js/main.681e9589.chunk.js",
-    "main.js.map": "/journey-teacher/static/js/main.681e9589.chunk.js.map",
+    "main.js": "/journey-teacher/static/js/main.7df4dfc3.chunk.js",
+    "main.js.map": "/journey-teacher/static/js/main.7df4dfc3.chunk.js.map",
     "runtime~main.js": "/journey-teacher/static/js/runtime~main.9f16287c.js",
     "runtime~main.js.map": "/journey-teacher/static/js/runtime~main.9f16287c.js.map",
     "static/js/2.62eae81d.chunk.js": "/journey-teacher/static/js/2.62eae81d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9209433f.chunk.js": "/journey-teacher/static/js/3.9209433f.chunk.js",
     "static/js/3.9209433f.chunk.js.map": "/journey-teacher/static/js/3.9209433f.chunk.js.map",
     "index.html": "/journey-teacher/index.html",
-    "precache-manifest.54b3a8a534be93f9faec958d2ade3559.js": "/journey-teacher/precache-manifest.54b3a8a534be93f9faec958d2ade3559.js",
+    "precache-manifest.427a90b4cb667afa447ddddbd215fd7c.js": "/journey-teacher/precache-manifest.427a90b4cb667afa447ddddbd215fd7c.js",
     "service-worker.js": "/journey-teacher/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/journey-teacher/static/css/main.d1b05096.chunk.css.map",
     "static/media/logo.svg": "/journey-teacher/static/media/logo.06e73328.svg"
