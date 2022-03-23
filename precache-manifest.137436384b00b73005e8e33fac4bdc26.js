@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d502338cf6a3dd0225dbe70f7e19b6e",
+    "revision": "b74c8f0ae8283137b8a73ebee674fbc2",
     "url": "/journey-teacher/index.html"
   },
   {
-    "revision": "74569b2e039eb9e06181",
+    "revision": "dc0e87d09b75e77c6483",
     "url": "/journey-teacher/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/journey-teacher/static/js/3.9209433f.chunk.js"
   },
   {
-    "revision": "74569b2e039eb9e06181",
-    "url": "/journey-teacher/static/js/main.075df1c7.chunk.js"
+    "revision": "dc0e87d09b75e77c6483",
+    "url": "/journey-teacher/static/js/main.a744cdd2.chunk.js"
   },
   {
     "revision": "bed8a777a352a3807d8f",
